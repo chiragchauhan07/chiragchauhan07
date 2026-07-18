@@ -1,8 +1,10 @@
 <div align="center">
+  <img src="assets/banner.png" alt="Chirag Chauhan - Building AI that people actually enjoy using" width="100%" />
+</div>
 
-# Chirag Chauhan
+<br>
 
-### AI Engineer in the making — building LLM, RAG & Agent-powered systems
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chirag12345chauhan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-chauhan-344783306)
@@ -12,6 +14,8 @@
 
 <br>
 
+<img src="assets/avatar.png" align="right" width="220" alt="Chirag Chauhan avatar" />
+
 ## About Me
 
 - B.Tech in Computer Science (AI/ML) at Manav Rachna International Institute of Research and Studies — expected May 2028
@@ -19,7 +23,7 @@
 - Skilled in developing end-to-end AI solutions with FastAPI, vector databases, and cloud technologies
 - Strong interest in building scalable AI systems for real-world applications
 
-<br>
+<br clear="right">
 
 ## Tech Stack
 
