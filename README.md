@@ -73,7 +73,11 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=chiragchauhan07&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=chiragchauhan07&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=chiragchauhan07&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=chiragchauhan07&theme=default&hide_border=true" alt="GitHub Streak Stats" />
+</picture>
 
 </div>
 
