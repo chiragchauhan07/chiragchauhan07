@@ -14,8 +14,6 @@
 
 <br>
 
-<img src="assets/avatar.png" align="right" width="220" alt="Chirag Chauhan avatar" />
-
 ## About Me
 
 - B.Tech in Computer Science (AI/ML) at Manav Rachna International Institute of Research and Studies — expected May 2028
@@ -23,7 +21,7 @@
 - Skilled in developing end-to-end AI solutions with FastAPI, vector databases, and cloud technologies
 - Strong interest in building scalable AI systems for real-world applications
 
-<br clear="right">
+<br>
 
 ## Tech Stack
 
